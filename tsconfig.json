@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["dom","ES2020"],
+    "module": "CommonJS",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "outDir": "dist"
+  },
+  "include": ["./**/*.ts"]
+}
