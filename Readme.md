@@ -1,4 +1,4 @@
-##Implementation of Request Animation Frame
+#Implementation of Request Animation Frame
 
 To get started:
 - Clone the repo.
